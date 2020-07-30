@@ -10,6 +10,8 @@ In this example, I wanted a border around both the tooltip border and arrow. In 
 
 Another thing to keep in mind is that the first triangle whose background color matches the tooltip body has to be positioned such that it is on top of the bottom border of the body thus hiding it.
 
+More info [here](https://css-tricks.com/snippets/css/css-triangle/).
+
 ## Layout Example
 
 `layout-example.html`
