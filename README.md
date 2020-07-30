@@ -4,7 +4,7 @@
 
 `css-triangle-example.html`
 
-This example demonstrates how to build a tooltip box that has an arrow. In order to do this in CSS, I use the CSS Trangle trick where I have an element that has 0 height and width and set all borders to a specific width and then set them all transparent except for one. The one that isn't transparent will be the arrow. For example, the top border will be a down arrow and a right border will be a left arrow.
+This example demonstrates how to build a tooltip box that has an arrow. In order to do this in CSS, I use the CSS Triangle trick where I have an element that has 0 height and width and set all borders to a specific width and then set them all transparent except for one. The one that isn't transparent will be the arrow. For example, the top border will be a down arrow and a right border will be a left arrow.
 
 In this example, I wanted a border around both the tooltip border and arrow. In order to do this using the CSS triangle hack, you have to create another triangle that is slightly bigger that is the border color and position it underneath the other triangle to give it the look of a continuation of the border.
 
